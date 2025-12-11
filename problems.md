@@ -11,12 +11,12 @@
 | 7   | Reverse an array (iterative)                        | Array Basics     | ReverseArray     |
 | 8   | Merge two sorted arrays (simple merge)              | Array Merging    | MergeSortedArray |
 | 9   | Remove duplicates from sorted array                 | Array Logic      | RemoveDuplicates |
-| 10  | Find second largest element                         | Array Logic      |
-| 11  | Find second smallest element                        | Array Logic      |
-| 12  | Rotate array by 1 position                          | Array Rotation   |
-| 13  | Left rotate array by D (simple)                     | Array Rotation   |
-| 14  | Right rotate array by D (simple)                    | Array Rotation   |
-| 15  | Move all zeros to the end                           | Array Logic      |
+| 10  | Find second largest element                         | Array Logic      | SecondLargest    |
+| 11  | Find second smallest element                        | Array Logic      | SecondSmallest   |
+| 12  | Rotate array by 1 position                          | Array Rotation   | RotateArrayBy1   |
+| 13  | Left rotate array by D (simple)                     | Array Rotation   | LeftRotateByD    |
+| 14  | Right rotate array by D (simple)                    | Array Rotation   | RightRotateByD   |
+| 15  | Move all zeros to the end                           | Array Logic      | MoveZeroToEnd    |
 | 16  | Count even and odd numbers                          | Array Basics     |
 | 17  | Find index of first occurrence                      | Searching        |
 | 18  | Find index of last occurrence                       | Searching        |
