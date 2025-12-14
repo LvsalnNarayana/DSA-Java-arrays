@@ -22,12 +22,12 @@
 | 18  | Find index of last occurrence                       | Searching        | LastOcurrenceIndex     |
 | 19  | Check if two arrays are equal                       | Array Comparison | ArraySimilarityChecker |
 | 20  | Find missing number from 0–n (sum formula)          | Math + Array     | MissingNumber          |
-| 21  | Find missing number using XOR                       | Bit Manipulation | MissingNumberXOR       | yes    |
-| 22  | Find frequency of all elements                      | Hashing          | ElementFrequency       | no     |
-| 23  | Binary search (iterative)                           | Binary Search    |
-| 24  | Find floor of a number                              | Binary Search    |
-| 25  | Find ceiling of a number                            | Binary Search    |
-| 26  | Count how many times target appears (using BS idea) | Binary Search    |
+| 21  | Find missing number using XOR                       | Bit Manipulation | MissingNumberXOR       | Yes    |
+| 22  | Find frequency of all elements                      | Hashing          | ElementFrequency       | No     |
+| 23  | Binary search (iterative)                           | Binary Search    | BinarySearch           | No     |
+| 24  | Find floor of a number                              | Binary Search    | FloorOfNumber          | No     |
+| 25  | Find ceiling of a number                            | Binary Search    | CeilOfNumber           | No     |
+| 26  | Count how many times target appears (using BS idea) | Binary Search    | OcurrenceCountBS       | Yes    |
 | 27  | Find the first occurrence using binary search       | Binary Search    |
 | 28  | Find the last occurrence using binary search        | Binary Search    |
 | 29  | Find peak element (basic mountain)                  | Binary Search    |
