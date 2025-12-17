@@ -35,35 +35,35 @@
 
 ## Medium Problems
 
-| #   | Problem                                                       | Topic         | Filename | Review |
-| --- | ------------------------------------------------------------- | ------------- | -------- | ------ |
-| 1   | Two-sum (sorted array, two pointers)                          | Arrays        |          |        |
-| 2   | Sort colors (0s, 1s, 2s — Dutch National Flag)                | Arrays        |          |        |
-| 3   | Majority element (Moore’s Voting Algorithm)                   | Arrays        |          |        |
-| 4   | Missing numbers when multiple are missing (hash/map)          | Arrays        |          |        |
-| 5   | Find duplicate number (Floyd’s cycle detection, no recursion) | Arrays        |          |        |
-| 6   | Intersection of two arrays                                    | Arrays        |          |        |
-| 7   | Intersection of two sorted arrays (two pointers)              | Arrays        |          |        |
-| 8   | Longest subarray with sum K (positive numbers)                | Arrays        |          |        |
-| 9   | Longest subarray with given sum (prefix sum)                  | Arrays        |          |        |
-| 10  | Max consecutive ones                                          | Arrays        |          |        |
-| 11  | Kadane’s algorithm (maximum subarray sum)                     | Arrays        |          |        |
-| 12  | Product of array except self                                  | Arrays        |          |        |
-| 13  | Rearrange array by sign (+, – pattern)                        | Arrays        |          |        |
-| 14  | Rearrange positives and negatives (stable order)              | Arrays        |          |        |
-| 15  | Find pivot index                                              | Arrays        |          |        |
-| 16  | Binary search in rotated sorted array                         | Binary Search |          |        |
-| 17  | Find minimum in rotated sorted array                          | Binary Search |          |        |
-| 18  | Search in 2D matrix (binary search using flattening idea)     | Binary Search |          |        |
-| 19  | Find peak element (LeetCode version)                          | Binary Search |          |        |
-| 20  | Split array into subarrays with max sum K (greedy approach)   | Arrays        |          |        |
-| 21  | Three-sum (sorted array + two pointers)                       | Arrays        |          |        |
-| 22  | Four-sum (sorted array + two pointers)                        | Arrays        |          |        |
-| 23  | Next permutation                                              | Arrays        |          |        |
-| 24  | Rotate array by k (reversal method)                           | Arrays        |          |        |
-| 25  | Find longest mountain in array                                | Arrays        |          |        |
-| 26  | Find equilibrium index                                        | Arrays        |          |        |
-| 27  | Find majority element II (frequency > n/3)                    | Arrays        |          |        |
-| 28  | Square root using binary search                               | Binary Search |          |        |
-| 29  | Find peak in bitonic array                                    | Binary Search |          |        |
-| 30  | Kth smallest element using sorting or selection               | Arrays        |          |        |
+| #   | Problem                                                       | Topic         | Filename        | Review | Algo Name           |
+| --- | ------------------------------------------------------------- | ------------- | --------------- | ------ | ------------------- |
+| 1   | Two-sum (sorted array, two pointers)                          | Arrays        | TwoSum          |        |
+| 2   | Sort colors (0s, 1s, 2s — Dutch National Flag)                | Arrays        | SortColors      | Yes    | Dutch National Flag |
+| 3   | Majority element (Moore’s Voting Algorithm)                   | Arrays        | MajorityElement | Yes    | Moore’s Voting      |
+| 4   | Missing numbers when multiple are missing (hash/map)          | Arrays        | MissingNumber   |        |
+| 5   | Find duplicate number (Floyd’s cycle detection, no recursion) | Arrays        |                 |        |
+| 6   | Intersection of two arrays                                    | Arrays        |                 |        |
+| 7   | Intersection of two sorted arrays (two pointers)              | Arrays        |                 |        |
+| 8   | Longest subarray with sum K (positive numbers)                | Arrays        |                 |        |
+| 9   | Longest subarray with given sum (prefix sum)                  | Arrays        |                 |        |
+| 10  | Max consecutive ones                                          | Arrays        |                 |        |
+| 11  | Kadane’s algorithm (maximum subarray sum)                     | Arrays        |                 |        |
+| 12  | Product of array except self                                  | Arrays        |                 |        |
+| 13  | Rearrange array by sign (+, – pattern)                        | Arrays        |                 |        |
+| 14  | Rearrange positives and negatives (stable order)              | Arrays        |                 |        |
+| 15  | Find pivot index                                              | Arrays        |                 |        |
+| 16  | Binary search in rotated sorted array                         | Binary Search |                 |        |
+| 17  | Find minimum in rotated sorted array                          | Binary Search |                 |        |
+| 18  | Search in 2D matrix (binary search using flattening idea)     | Binary Search |                 |        |
+| 19  | Find peak element (LeetCode version)                          | Binary Search |                 |        |
+| 20  | Split array into subarrays with max sum K (greedy approach)   | Arrays        |                 |        |
+| 21  | Three-sum (sorted array + two pointers)                       | Arrays        |                 |        |
+| 22  | Four-sum (sorted array + two pointers)                        | Arrays        |                 |        |
+| 23  | Next permutation                                              | Arrays        |                 |        |
+| 24  | Rotate array by k (reversal method)                           | Arrays        |                 |        |
+| 25  | Find longest mountain in array                                | Arrays        |                 |        |
+| 26  | Find equilibrium index                                        | Arrays        |                 |        |
+| 27  | Find majority element II (frequency > n/3)                    | Arrays        |                 |        |
+| 28  | Square root using binary search                               | Binary Search |                 |        |
+| 29  | Find peak in bitonic array                                    | Binary Search |                 |        |
+| 30  | Kth smallest element using sorting or selection               | Arrays        |                 |        |
